@@ -21,7 +21,6 @@ p {
   animation-delay: 0.3s;
 }
 
-/* このクラスが要素に付与されるとアニメーションが動く */
 .displayed {
   animation: fadeUp 1s forwards;
 }
